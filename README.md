@@ -41,20 +41,26 @@ Output:
 40320
 
 ```
-Concepts Used
-Python input and output
-Variables
-if and elif conditions
-for loops
-Lists
-String operations
-isalpha() and isdigit()
-Binary to decimal conversion
-Factorial calculation
-Language
-Python
 
-Purpose
+
+## Concepts Used
+
+* Python input and output
+* Variables
+* `if` and `elif` conditions
+* `for` loops
+* Lists
+* String operations
+* `isalpha()` and `isdigit()`
+* Binary to decimal conversion
+* Factorial calculation
+
+## Language
+
+**Python**
+
+## Purpose
+
 This repository is created for learning and practicing basic Python programming concepts.
 
 <img width="1906" height="1013" alt="Screenshot 2026-09-23 135935" src="https://github.com/user-attachments/assets/f0721a97-4738-4cc4-a77c-6a5afd3ba53e" />
