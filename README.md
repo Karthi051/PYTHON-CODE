@@ -65,4 +65,5 @@ This repository is created for learning and practicing basic Python programming 
 
 
 
+<img width="1906" height="1013" alt="Screenshot 2026-09-23 135935" src="https://github.com/user-attachments/assets/f15db8ec-2ac6-4dc4-b64a-3dcac3f92dc0" />
 
