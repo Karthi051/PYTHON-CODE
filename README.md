@@ -63,3 +63,6 @@ Output:
 
 This repository is created for learning and practicing basic Python programming concepts.
 
+<img width="1906" height="1013" alt="Screenshot 2026-09-23 135935" src="https://github.com/user-attachments/assets/3a4e1576-2293-4e45-aa66-a6b5b0e30220" />
+
+
