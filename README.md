@@ -63,3 +63,4 @@ Output:
 
 This repository is created for learning and practicing basic Python programming concepts.
 
+https://github.com/Karthi051/PYTHON-CODE/blob/main/Screenshot%202026-09-23%20140011.png
