@@ -62,7 +62,7 @@ Output:
 ## Purpose
 
 This repository is created for learning and practicing basic Python programming concepts.
-Screenshot 2026-09-23 140033.png
+
 
 
 
