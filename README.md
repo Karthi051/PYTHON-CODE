@@ -1,6 +1,6 @@
 # PYTHON-CODE
 
-#This repository contains simple Python programs for practicing basic programming concepts such as input handling, loops, conditions, string operations, and number calculations.
+This repository contains simple Python programs for practicing basic programming concepts such as input handling, loops, conditions, string operations, and number calculations.
 
 Programs Included
 ```
@@ -56,3 +56,8 @@ Python
 
 Purpose
 This repository is created for learning and practicing basic Python programming concepts.
+
+<img width="1906" height="1013" alt="Screenshot 2026-09-23 135935" src="https://github.com/user-attachments/assets/f0721a97-4738-4cc4-a77c-6a5afd3ba53e" />
+<img width="1910" height="1017" alt="Screenshot 2026-09-23 140011" src="https://github.com/user-attachments/assets/64a7a62e-c98b-4be1-9e92-9b2524ef28c3" />
+<img width="1911" height="1020" alt="Screenshot 2026-09-23 140033" src="https://github.com/user-attachments/assets/98b07bfd-bc15-4eaf-a4e9-565522f8c7b5" />
+
