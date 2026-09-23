@@ -3,7 +3,7 @@ Python Basic Programs
 This repository contains simple Python programs for practicing basic programming concepts such as input handling, loops, conditions, string operations, and number calculations.
 
 Programs Included
-1. Binary Numbers Divisible by 5
+#1. Binary Numbers Divisible by 5
 Accepts comma-separated 4-digit binary numbers and checks which numbers are divisible by 5.
 
 Example Input:
@@ -12,6 +12,8 @@ Example Input:
 Output:
 
 1010
+
+```
 2. Count Letters and Digits
 Accepts a sentence and calculates the total number of letters and digits.
 
@@ -22,6 +24,8 @@ Output:
 
 LETTERS 10
 DIGITS 3
+
+```
 3. Factorial of a Number
 Accepts a number and calculates its factorial.
 
